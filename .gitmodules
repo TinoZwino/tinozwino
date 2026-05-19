@@ -1,0 +1,3 @@
+[submodule "BART"]
+	path = BART
+	url = https://github.com/TinoZwino/BART
